@@ -102,7 +102,6 @@ article.preview {
   text-align: center;
 }
 #blog-logo img {
-  border-radius: 50%;
   max-width: 100px;
 }
 h1.blog-title,
@@ -217,7 +216,6 @@ h1.blog-title a:hover {
 h2 {
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   margin-top: 2em;
-  text-transform: uppercase;
   font-weight: 300;
 }
 section.post-content img {
@@ -368,7 +366,6 @@ a.archive-link {
   text-transform: uppercase !important;
   display: none !important;
   /* Hide GitHub attribution */
-
 }
 .gist .gist-file .gist-meta a:visited {
   color: #3498db !important;
@@ -377,7 +374,6 @@ a.archive-link {
   background: #fdfdfd !important;
   border-bottom: none !important;
   /* Hide GitHub attribution */
-
 }
 .gist .gist-file .gist-data .line-numbers {
   border-right: none !important;
